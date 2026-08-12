@@ -42,13 +42,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### 📊 GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiKlimat&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiKlimat&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>Open to backend/Go opportunities — feel free to reach out on LinkedIn or Telegram.</i></p>
