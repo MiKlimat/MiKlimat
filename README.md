@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mihail 👋</h1>
+
 <h3 align="center">Golang Developer · High-load backend & distributed systems</h3>
 
 <p align="center">
