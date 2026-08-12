@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mihail 👋</h1>
+<h3 align="center">Golang Developer · High-load backend & distributed systems</h3>
 
-<!--
-**MiKlimat/MiKlimat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihail-klim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/mikk_sh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+- 🔧 5+ years building and operating **high-load microservices** for logistics, warehouse management, and e-commerce platforms — currently at **Samokat**, previously at **Wildberries** and **OZON**.
+- 📦 Deep hands-on experience with **inventory/order systems**, event-driven architecture on **Kafka**, and query/schema optimization on **PostgreSQL** at hundreds-of-millions-of-rows scale.
+- 🐳 Ship services through **Docker → Kubernetes (Helm) → CI/CD** end to end.
+- 🌍 Based in Moscow, Russia.
+
+### 🔭 Currently building
+
+**Grocery Delivery Platform** — a personal, Samokat-style backend project. It handles stock/inventory updates triggered by order placement, cancellation, and return events, designed to scale toward high transaction volumes across a nationwide dark-store network — starting simple, with a planned migration to Kafka-based event processing as load grows.
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiKlimat&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiKlimat&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Open to backend/Go opportunities — feel free to reach out on LinkedIn or Telegram.</i></p>
