@@ -13,7 +13,6 @@
 - 🔧 5+ years building and operating **high-load microservices** for logistics, warehouse management, and e-commerce platforms — currently at **Samokat**, previously at **Wildberries** and **OZON**.
 - 📦 Deep hands-on experience with **inventory/order systems**, event-driven architecture on **Kafka**, and query/schema optimization on **PostgreSQL** at hundreds-of-millions-of-rows scale.
 - 🐳 Ship services through **Docker → Kubernetes (Helm) → CI/CD** end to end.
-- 🌍 Based in Moscow, Russia.
 
 ### 🔭 Currently building
 
